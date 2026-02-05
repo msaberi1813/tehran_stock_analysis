@@ -33,4 +33,4 @@ It includes daily OHLCV (Open, High, Low, Close, Volume) data for hundreds of ti
 1. Clone the repository.
 2. Install dependencies: `pip install -r requirements.txt`.
 3. Ensure your data follows the structure of the Kaggle dataset.
-4. Run the scanner: `python main.py`.
+4. Run the scanner: `python main.py`. see notebooks for detail.
