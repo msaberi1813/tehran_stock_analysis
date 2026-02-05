@@ -1,0 +1,15 @@
+# Python environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data files (IMPORTANT: Do not upload large Kaggle files)
+data/raw/
+data/cleaned/*.csv
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
