@@ -1,4 +1,4 @@
-# AI-Powered Stock Market Scanner (TSETMC)
+# Data-Driven Stock Market Scanner (TSETMC)
 
 An end-to-end quantitative trading system for the Tehran Stock Exchange. This project leverages **Exploratory Data Analysis (EDA)** and **Gradient Boosted Decision Trees (XGBoost)** to identify high-probability 5-day swing trading opportunities.
 
